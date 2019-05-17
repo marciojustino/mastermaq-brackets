@@ -1,10 +1,10 @@
 # mastermaq-brackets
 A brackets string analyser
 
-# requirements
+# Requirements
 `Node v9.8.0`
 
-# test
+# Test
 Run in terminal:
 ```bash
 node test.js
