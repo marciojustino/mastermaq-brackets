@@ -5,7 +5,14 @@ A brackets string analyser
 `Node v9.8.0`
 
 # Test
-Run in terminal:
+## Running
 ```bash
 node test.js
+```
+
+## Output
+```
+SIM
+NÃO
+SIM
 ```
